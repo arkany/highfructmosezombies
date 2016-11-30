@@ -1,0 +1,9 @@
+*.psd
+headers-assets/*
+Helios/*
+node_modules/*
+sass/*
+_archive/*
+_archive/*/*
+*/.DS_Store
+.DS_Store
